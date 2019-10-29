@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=Gently
+X-KDE-PluginInfo-Author=Hawkeye0021
+X-KDE-PluginInfo-Email=Hawkeye021@gmail.com
+X-KDE-PluginInfo-Name=Gently
+X-KDE-PluginInfo-Version=
+X-KDE-PluginInfo-Website=
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=CCPL:by-sa
+X-KDE-PluginInfo-EnabledByDefault=true
+
+[ContrastEffect]
+enabled=false
+contrast=0.2
+intensity=0.4
+saturation=1.7
