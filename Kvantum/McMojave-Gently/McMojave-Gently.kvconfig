@@ -148,7 +148,7 @@ min_height=24
 [Focus]
 inherits=PanelButtonCommand
 interior=false
-frame=true
+frame=false
 frame.element=focus
 frame.top=2
 frame.bottom=2

@@ -19,22 +19,22 @@
      inkscape:current-layer="svg2"
      inkscape:window-maximized="0"
      inkscape:window-y="41"
-     inkscape:window-x="967"
-     inkscape:cy="233.28249"
-     inkscape:cx="637.90771"
-     inkscape:zoom="2.8284274"
+     inkscape:window-x="15"
+     inkscape:cy="821.56133"
+     inkscape:cx="573.37303"
+     inkscape:zoom="11.31371"
      showgrid="false"
      id="namedview967"
      inkscape:window-height="1016"
-     inkscape:window-width="931"
+     inkscape:window-width="1884"
      inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
+     inkscape:pageopacity="1"
      guidetolerance="10"
      gridtolerance="10"
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      showguides="true"
      units="mm"
      height="298mm"
@@ -61,7 +61,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3260,30 +3260,30 @@
      y="509.15631"
      x="554.5"
      width="8"
-     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0.65" />
+     style="fill:#315bef;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:1" />
   <rect
      id="itemview-pressed-bottom"
      height="4"
      y="521.15631"
      x="554.5"
      width="8"
-     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0.65" />
+     style="fill:#315bef;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:1" />
   <path
      d="m 554.50003,513.15631 h 8 v 8 h -8 z"
      id="itemview-pressed"
      inkscape:connector-curvature="0"
-     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0.65" />
+     style="fill:#315bef;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:1" />
   <path
      d="m 562.50003,509.15631 c 0,0 4,-0.015 4,4 h -4 z"
      id="itemview-pressed-topright"
      inkscape:connector-curvature="0"
-     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0.65"
+     style="fill:#315bef;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:1"
      sodipodi:nodetypes="cccc" />
   <path
      d="m 562.50003,521.15631 h 4 c 0,0 0.0148,4 -4,4 z"
      id="itemview-pressed-bottomright"
      inkscape:connector-curvature="0"
-     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0.65"
+     style="fill:#315bef;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:1"
      sodipodi:nodetypes="cccc" />
   <rect
      id="itemview-pressed-right"
@@ -3291,25 +3291,25 @@
      y="513.15631"
      x="562.5"
      width="4"
-     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0.65" />
+     style="fill:#315bef;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:1" />
   <rect
      id="itemview-pressed-left"
      height="8"
      y="513.15631"
      x="550.5"
      width="4"
-     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0.65" />
+     style="fill:#315bef;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:1" />
   <path
      d="m 554.50003,509.15631 v 4 h -4 c 0,0 -0.0148,-4 4,-4 z"
      id="itemview-pressed-topleft"
      inkscape:connector-curvature="0"
-     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0.65"
+     style="fill:#315bef;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:1"
      sodipodi:nodetypes="cccc" />
   <path
      d="m 550.50003,521.15631 h 4 v 4 c 0,0 -4,0.015 -4,-4 z"
      id="itemview-pressed-bottomleft"
      inkscape:connector-curvature="0"
-     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0.65"
+     style="fill:#315bef;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:1"
      sodipodi:nodetypes="cccc" />
   <use
      style="stroke:none"
