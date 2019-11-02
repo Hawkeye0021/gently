@@ -67,7 +67,7 @@ reduce_menu_opacity=0
 [GeneralColors]
 window.color=#242424
 inactive.window.color=#242424
-base.color=#242424
+base.color=#333333
 inactive.base.color=#1f1f1f
 alt.base.color=#2d2d2d
 inactive.alt.base.color=#282828
@@ -148,7 +148,7 @@ min_height=24
 [Focus]
 inherits=PanelButtonCommand
 interior=false
-frame=false
+frame=true
 frame.element=focus
 frame.top=1
 frame.bottom=1
