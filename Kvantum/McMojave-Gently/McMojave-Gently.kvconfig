@@ -65,12 +65,12 @@ no_inactiveness=true
 reduce_menu_opacity=0
 
 [GeneralColors]
-window.color=#242424
-inactive.window.color=#242424
-base.color=#333333
+window.color=#272727
+inactive.window.color=#272727
+base.color=#2d2d2d
 inactive.base.color=#1f1f1f
 alt.base.color=#2d2d2d
-inactive.alt.base.color=#282828
+inactive.alt.base.color=#2d2d2d
 button.color=#656565
 light.color=#5a5a5a
 mid.light.color=#555555
