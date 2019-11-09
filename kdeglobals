@@ -109,7 +109,7 @@ ForegroundVisited=120,120,120
 
 [DirSelect Dialog]
 DirSelectDialog Size=640,480
-History Items[$e]=file:$HOME/builds/gently/Kvantum/McMojave-Gently,file:$HOME/builds/gently/Kvantum/McMojave-Gently,file:$HOME/Downloads/McMojave,file:$HOME/Downloads/McMojave,file:$HOME/Downloads/McMojave,file:$HOME/Downloads/McMojave,file:$HOME/Downloads/McMojave,file:$HOME/Downloads/McMojave,file:$HOME/Downloads/Mojave-dark,file:$HOME/Documents,file:$HOME/Downloads/McMojave,file:$HOME/Downloads/McMojave
+History Items[$e]=file:$HOME/builds/gently/Kvantum/McMojave-Gently,file:$HOME/builds/gently/Kvantum/McMojave-Gently,file:$HOME/builds/gently/Kvantum/McMojave-Gently,file:$HOME/Downloads/McMojave,file:$HOME/Downloads/McMojave,file:$HOME/Downloads/McMojave,file:$HOME/Downloads/McMojave,file:$HOME/Downloads/McMojave,file:$HOME/Downloads/McMojave,file:$HOME/Downloads/Mojave-dark,file:$HOME/Documents,file:$HOME/Downloads/McMojave,file:$HOME/Downloads/McMojave
 
 [General]
 BrowserApplication[$e]=google-chrome.desktop
