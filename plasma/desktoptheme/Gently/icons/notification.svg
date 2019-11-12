@@ -40,8 +40,8 @@
      id="namedview74"
      showgrid="false"
      inkscape:zoom="5.2149125"
-     inkscape:cx="149.62108"
-     inkscape:cy="41.542329"
+     inkscape:cx="124.88433"
+     inkscape:cy="16.805576"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="0"
@@ -57,7 +57,7 @@
        y="40"
        id="rect2" />
     <path
-       style="fill:#2962ff;fill-opacity:1"
+       style="fill:#448aff;fill-opacity:1"
        d="m 11,43 c -4.418278,0 -8,3.581722 -8,8 0,4.418278 3.581722,8 8,8 4.418278,0 8,-3.581722 8,-8 0,-4.418278 -3.581722,-8 -8,-8 z"
        id="path4" />
     <path
@@ -140,7 +140,7 @@
        y="0"
        id="rect30" />
     <path
-       style="fill:#2962ff;fill-opacity:1"
+       style="fill:#448aff;fill-opacity:1"
        d="m 51,2.9999999 c -4.418278,0 -8,3.5817221 -8,8.0000001 0,4.418278 3.581722,8 8,8 4.418278,0 8,-3.581722 8,-8 0,-4.418278 -3.581722,-8.0000001 -8,-8.0000001 z"
        id="path32" />
   </g>
@@ -229,7 +229,7 @@
        y="0"
        id="rect60" />
     <path
-       style="fill:#2962ff;fill-opacity:1"
+       style="fill:#448aff;fill-opacity:1"
        d="M 15.5,4 C 9.1487254,4 4,9.1487254 4,15.5 4,21.851275 9.1487254,27 15.5,27 21.851275,27 27,21.851275 27,15.5 27,9.1487254 21.851275,4 15.5,4 Z"
        id="path62" />
   </g>
@@ -244,7 +244,7 @@
        y="0"
        id="rect65" />
     <path
-       style="fill:#2962ff;fill-opacity:1"
+       style="fill:#448aff;fill-opacity:1"
        d="M 15.5,4 A 11.5,11.5 0 0 0 4,15.5 11.5,11.5 0 0 0 15.5,27 11.5,11.5 0 0 0 27,15.5 11.5,11.5 0 0 0 15.5,4 Z"
        id="path67" />
     <path

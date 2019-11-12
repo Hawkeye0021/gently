@@ -40,9 +40,9 @@
      inkscape:window-height="886"
      id="namedview55"
      showgrid="false"
-     inkscape:zoom="10.727273"
-     inkscape:cx="68.889831"
-     inkscape:cy="9.0423729"
+     inkscape:zoom="15.170655"
+     inkscape:cx="52.120684"
+     inkscape:cy="6.594596"
      inkscape:window-x="50"
      inkscape:window-y="73"
      inkscape:window-maximized="0"
@@ -67,11 +67,11 @@
        id="path6" />
     <path
        d="m 10,7 0,5 2,0 0,-5 -2,0 z"
-       style="fill:#2962ff;fill-opacity:1"
+       style="fill:#448aff;fill-opacity:1"
        id="path8" />
     <path
        d="m 11,13 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
-       style="fill:#2962ff;fill-opacity:1"
+       style="fill:#448aff;fill-opacity:1"
        id="path10" />
   </g>
   <g
@@ -93,15 +93,15 @@
        id="path17" />
     <path
        d="M 8,10 A 1,1 0 0 0 7,11 1,1 0 0 0 8,12 1,1 0 0 0 9,11 1,1 0 0 0 8,10 Z"
-       style="fill:#2962ff;fill-opacity:1"
+       style="fill:#448aff;fill-opacity:1"
        id="path19" />
     <path
        d="m 11,10 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
-       style="fill:#2962ff;fill-opacity:1"
+       style="fill:#448aff;fill-opacity:1"
        id="path21" />
     <path
        d="m 14,10 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
-       style="fill:#2962ff;fill-opacity:1"
+       style="fill:#448aff;fill-opacity:1"
        id="path23" />
   </g>
   <g
@@ -124,11 +124,11 @@
        id="path30" />
     <path
        d="m 10,7 0,5 2,0 0,-5 -2,0 z"
-       style="fill:#2962ff;fill-opacity:1"
+       style="fill:#448aff;fill-opacity:1"
        id="path32" />
     <path
        d="m 11,13 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
-       style="fill:#2962ff;fill-opacity:1"
+       style="fill:#448aff;fill-opacity:1"
        id="path34" />
   </g>
   <g
@@ -167,11 +167,11 @@
        id="path46" />
     <path
        d="m 10,7 0,5 2,0 0,-5 -2,0 z"
-       style="fill:#2962ff;fill-opacity:1"
+       style="fill:#448aff;fill-opacity:1"
        id="path48" />
     <path
        d="m 11,13 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
-       style="fill:#2962ff;fill-opacity:1"
+       style="fill:#448aff;fill-opacity:1"
        id="path50" />
   </g>
 </svg>
